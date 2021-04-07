@@ -1,2 +1,2 @@
 For Fetch to GIT1
-Fetch from Origin to GIT1
+Fetch from Origin to GIT1/New_B
